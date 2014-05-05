@@ -1,4 +1,5 @@
 name: La mujer en la investigación científica - Blog
 markdown: redcarpet
 pygments: true
-
+url: "http://lbasualtobbizarro.github.io"
+baseurl: /blog
