@@ -2,3 +2,4 @@ name: El blog de la mujer científica
 markdown: redcarpet
 pygments: true
 source: "http://lbasualtobbizarro.github.io/blog/"
+include: .htaccess
