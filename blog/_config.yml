@@ -1,4 +1,4 @@
 name: El blog de la mujer científica
 markdown: redcarpet
 pygments: true
-source: blog
+source: http://lbasualtobbizarro.github.io/blog/
