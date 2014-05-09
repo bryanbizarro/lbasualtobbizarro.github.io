@@ -2,7 +2,7 @@
 layout: default
 ---
 <h2>{{ page.title }}</h2>
-<p class="meta">{{ page.date | date_to_string }} - Por: {{ page.autor }}</p>
+<p class="meta">{{ page.date | date_to_string }}{ % if page.autor % } - Por: {{ page.autor }}{ % endif %}</p>
 
 <div class="post">
 {{ content }}
