@@ -54,7 +54,6 @@ a:visited { color: #a0a; }
 /* Site
 /*
 /*****************************************************************************/
-
 .site {
   font-size: 115%;
   text-align: justify;
@@ -71,6 +70,7 @@ a:visited { color: #a0a; }
 .title {
   display: inline-block;
   margin-bottom: 2em;
+  font-size: 15px;
 }
 
 .title a {
