@@ -12,4 +12,4 @@ El blog tratar&aacute;, como su nombre lo indica, temas sobre la importancia de 
 
 Somos estudiantes del Programa acad&eacute;mico de Bachillerato cursando nuestro segundo a&ntilde;o y, adem&aacute;s, tomamos dos ramos en Ingenier&iacute;a con el fin de poder continuar nuestros estudios en esta facultad.
 
-Nuestro grupo de trabajo consta de dos personas, Lilian Basualto Osorio y Bryan Bizarro Antinao
+Nuestro grupo de trabajo consta de dos personas, Lilian Basualto Osorio y Bryan Bizarro Antinao.
