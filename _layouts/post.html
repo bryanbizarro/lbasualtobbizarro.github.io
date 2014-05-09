@@ -2,7 +2,14 @@
 layout: default
 ---
 <h2>{{ page.title }}</h2>
-<p class="meta">{{ page.date | date_to_string }}{ % if page.autor % } - Por: {{ page.autor }}{ % endif %}</p>
+{% if page.previous %}
+		<a class="prev" href="{{ page.previous.url }}">&laquo; {{ page.previous.title | truncatewords:5 }}</a>
+	{% endif %}
+	
+	{% if page.next %}
+		<a class="next" href="{{ page.next.url }}">{{ page.next.title | truncatewords:5 }} &raquo;</a>
+	{% endif %}
+<p class="meta">{{ page.date | date_to_string }}{% if page.autor %} - Por: {{ page.autor }}{% endif %}</p>
 
 <div class="post">
 {{ content }}
