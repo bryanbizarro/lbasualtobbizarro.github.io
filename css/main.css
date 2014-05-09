@@ -71,7 +71,6 @@ a:visited { color: #a0a; }
   display: inline-block;
   margin-bottom: 2em;
   font-size: 30px;
-  color: #606060;
 }
 
 .title a {
@@ -89,6 +88,16 @@ a:visited { color: #a0a; }
 
 .header a.extra:hover {
   color: #000;
+}
+/***************************************/ 
+/*
+/* Objetivos
+/*
+/***************************************/
+
+.objetivos {
+margin: 10px;
+text-align: justify;
 }
 
 .meta {
