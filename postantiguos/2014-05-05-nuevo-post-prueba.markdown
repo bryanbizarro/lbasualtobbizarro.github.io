@@ -3,7 +3,7 @@ layout: post
 title:  "Nuevo Post Prueba"
 date:   2014-05-05 20:43:00
 categories: post
-autor: Autor!
+autor: Autor
 ---
 
 [Universidad de Chile][link]
