@@ -13,8 +13,8 @@
 html, body { height: 100%; }
 
 body {
-  background-image: url(http://thumbs.dreamstime.com/z/fondo-de-la-ciencia-con-la-dna-23595600.jpg);
-  background-attachment: fixed;
+  /*background-image: url(http://thumbs.dreamstime.com/z/fondo-de-la-ciencia-con-la-dna-23595600.jpg);
+  background-attachment: fixed;*/
   background-color: #FFF;
   font: 13.34px Helvetica, Arial, sans-serif;
   font-size: small;
