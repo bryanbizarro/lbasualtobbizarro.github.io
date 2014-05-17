@@ -89,33 +89,6 @@ padding: 5px 0;
 background: #FAFAFA top;
 }
 
-.banner { /* Título página */
-font: bold 40px Arial, Helvetica, sans-serif;
-text-transform:uppercase;
-text-decoration: none;
-color: white;
-margin: 0 -40px;
-padding: 40px 40px;
-background: #191E3F;
-border: #214971 5px double;
-}
-
-.banner a { /* Link Ban blaco */
-text-decoration: none;
-color: white;
-}
-
-.menu {
-margin: 20px auto;
-padding: 2px 20px;
-text-align: left;
-font-size: 110%;
-font-weight: bold;
-}
-
-.menu a { color: #aaa; text-decoration:none; }
-.menu a:hover { color: black;  }
-
 .site {
   font-size: 115%;
   text-align: justify;
