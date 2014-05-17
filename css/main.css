@@ -59,12 +59,14 @@ a:visited { color: #a0a; }
 font-size: 20px;
 font-weight: bold;
 color: white;
-background: #FA8258;
+background: #08088A;
 text-align:justify;
 padding: 20px 10px;
 margin: 5px 0;
 }
-.
+.titulo:hover {
+background: #0B0B61;
+}
 
 .datos {
 color: #848484;
