@@ -6,7 +6,7 @@ title: Blog de la mujer científica
 <div id="home">
 {% for post in site.posts limit:25 %}
 	<div class="listpost">
-		<a href="{{ post.url }}"><div class="titulo">{{ post.title }}</div></a>
+		<a href="{{ post.url }}"><div class="titulo principal">{{ post.title }}</div></a>
 		<div class="datos">{% if post.autor %} Por: {{ post.autor }},{% endif %} {{ post.date | date_to_string }}.</div>
 		<div class="postcont">
 		{{ post.content }}		
