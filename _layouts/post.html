@@ -1,9 +1,10 @@
 ---
 layout: default
 ---
-<h2>{{ page.title }}</h2>
-<p class="meta">{{ page.date | date_to_string }}{% if page.autor %} - Por: {{ page.autor }}{% endif %}</p>
-
-<div class="post">
-{{ content }}
-</div>
+<div class="listpost">
+		<div class="titulo">{{ post.title }}</div>
+		<div class="datos">{% if post.autor %} Por: {{ post.autor }},{% endif %} {{ post.date | date_to_string }}.</div>
+		<div class="postcont">
+		{{ content }}		
+		</div>
+	</div>
