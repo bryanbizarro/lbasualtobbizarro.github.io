@@ -2,8 +2,8 @@
 layout: default
 ---
 <div class="listpost">
-		<div class="titulo">{{ post.title }}</div>
-		<div class="datos">{% if post.autor %} Por: {{ post.autor }},{% endif %} {{ post.date | date_to_string }}.</div>
+		<div class="titulo">{{ page.title }}</div>
+		<div class="datos">{% if page.autor %} Por: {{ page.autor }},{% endif %} {{ page.date | date_to_string }}.</div>
 		<div class="postcont">
 		{{ content }}		
 		</div>
