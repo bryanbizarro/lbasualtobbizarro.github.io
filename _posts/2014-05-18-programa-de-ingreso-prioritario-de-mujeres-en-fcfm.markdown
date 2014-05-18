@@ -6,9 +6,9 @@ categories: post
 autor: "Lilian y Bryan"
 ---
 
-Programa de ingreso prioritario de mujeres en la Facultad de Ingeniería de la Universidad de Chile como medida de equidad de género
+<b>Programa de ingreso prioritario de mujeres en la Facultad de Ingenier&iacute;a de la Universidad de Chile como medida de equidad de g&eacute;nero</b>
 
-La poca o nula inclusión de la mujer en ciencias ha estado presente tanto a nivel nacional como internacional, sobre todo en el área científica de la ingeniería. En Chile, en las mejores universidades chilenas en ingeniería, Universidad de Chile, Pontificia Universidad Católica y Universidad Técnica Federico Santa María, el porcentaje de mujeres no supera el 20%. Así como también sucede con las académicas titulares quienes no exceden el 15% del total.
+La poca o nula inclusi&oacute;n de la mujer en ciencias ha estado presente tanto a nivel nacional como internacional, sobre todo en el &aacute;rea cient&iacute;fica de la ingenier&iacute;a. En Chile, en las mejores universidades chilenas en ingeniería, Universidad de Chile, Pontificia Universidad Católica y Universidad Técnica Federico Santa María, el porcentaje de mujeres no supera el 20%. Así como también sucede con las académicas titulares quienes no exceden el 15% del total.
 
 En base a esto, la FCFM, Facultad de Ciencias Físicas y Matemáticas ha decidido hacerle frente a este problema-país, pues se ha visto reflejado en sus aulas desde siempre y que, con el paso de los años, es imprescindible revertir.
 Para ello, gracias a la iniciativa "Más Mujeres para la Ingeniería y las Ciencias", movimiento que dentro de sus medidas creó el Programa de Equidad de Género (PEG), el cual consiste en 40 cupos especiales para las primeras 40 alumnas que quedaron en lista de espera, es decir, bajo el último postulante seleccionado en el proceso regular de admisión establecido por el Consejo de Rectores de las Universidades Chilenas. Este programa partió este año, 2014, donde 215 mujeres fueron seleccionadas para ingresar al Plan Común de Ingeniería y Ciencias en la Universidad de Chile, aumentando en un 8% la admisión de mujeres a la Facultad de Ciencias Físicas y Matemáticas (FCFM) de la Universidad de Chile, con respecto al 2013,
