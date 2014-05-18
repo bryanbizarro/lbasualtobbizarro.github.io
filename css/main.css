@@ -86,7 +86,7 @@ margin: 0 0 30px;
 width: 800px;
 margin: 0 auto;
 padding: 5px 0;
-background: #FAFAFA top;
+background: #FFF; top; /*#FAFAFA*/
 }
 
 .banner { /* Título página */
