@@ -195,10 +195,10 @@ color: #CCC;
   border: 0;
 }
 .footer .disclaimer {
+width: 500px;
 margin: 0 auto;
 padding: 0 10px;
 text-align: center;
-position: fixed;
 }
 
 /*****************************************************************************/
