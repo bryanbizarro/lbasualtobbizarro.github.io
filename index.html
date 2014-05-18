@@ -3,7 +3,17 @@ layout: default
 title: La mujer en ciencias
 ---
 <div id="home">
-{% for post in site.posts limit:25 %}
+{% for post in site.categories.post limit:25 %}
+ <!-- todo bien -->
+	<div class="listpost principal">
+		<a href="{{ post.url }}"><div class="titulo">{{ post.title }}</div></a>
+		<div class="datos">{% if post.autor %} Por: {{ post.autor }},{% endif %} {{ post.date | date_to_string }}.</div>
+		<div class="postcont">
+		{{ post.content }}		
+		</div>
+	</div>
+{% endfor %}
+{% for post in site.categories.otros limit:25 %}
  <!-- todo bien -->
 	<div class="listpost principal">
 		<a href="{{ post.url }}"><div class="titulo">{{ post.title }}</div></a>

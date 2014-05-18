@@ -28,7 +28,7 @@ En &eacute;stos, se concuerda que la principal deficiencia del g&eacute;nero fem
 <center>![Investigadoras por &aacute;rea cient&iacute;fica en Europa](http://lbasualtobbizarro.github.io/images/inv_area_cientifica_europa.png)</center>
 
 FUENTES: <br>
-- INSTITUTO DE ESTAD&Iacute;STICA DE LA UNESCO, 'CIENCIA, TECNOLOG&Iacute;A E INNOVACI&Oacute;N'.<br>
-- http://data.uis.unesco.org/Index.aspx?DataSetCode=SCN_DS<br>
+- INSTITUTO DE ESTAD&Iacute;STICA DE LA UNESCO, 'CIENCIA, TECNOLOG&Iacute;A E INNOVACI&Oacute;N'. <br> 
+- http://data.uis.unesco.org/Index.aspx?DataSetCode=SCN_DS <br> 
 - http://www.uis.unesco.org/_LAYOUTS/UNESCO/women-in-science/index.html#overview!lang=es
 
