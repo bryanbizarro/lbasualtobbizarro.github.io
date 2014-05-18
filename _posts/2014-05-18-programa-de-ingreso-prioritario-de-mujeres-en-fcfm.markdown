@@ -24,7 +24,7 @@ Para finalizar, a pesar de lo dif&iacute;cil que puede ser para las mujeres tran
 
 FUENTES: <br>
 - FACULTAD DE CIENCIAS F&Iacute;SICAS Y MATEM&Aacute;TICAS DE LA UNIVERSIDAD DE CHILE.<br>
-- http://ingenieria.uchile.cl/admision/97009/mas-mujeres-para-la-ingenieria-y-las-ciencias<br>
-- http://ingenieria.uchile.cl/admision/admision-especial-pregrado/94355/cupos-equidad-de-genero<br>
-- http://ingenieria.uchile.cl/noticias/98203/importante-aumento-en-admision-de-mujeres-registro-este-ano-la-fcfm<br>
-- http://cienciagora.com.co/novedades_de_ciencia_y_tecnologia/mujeres-cientificas-el-porque-de-la-escasez/307.html
+- [http://data.uis.unesco.org/Index.aspx?DataSetCode=SCN_DS][http://ingenieria.uchile.cl/admision/97009/mas-mujeres-para-la-ingenieria-y-las-ciencias]<br>
+- [http://ingenieria.uchile.cl/admision/admision-especial-pregrado/94355/cupos-equidad-de-genero][http://ingenieria.uchile.cl/admision/admision-especial-pregrado/94355/cupos-equidad-de-genero]<br>
+- [http://ingenieria.uchile.cl/noticias/98203/importante-aumento-en-admision-de-mujeres-registro-este-ano-la-fcfm][http://ingenieria.uchile.cl/noticias/98203/importante-aumento-en-admision-de-mujeres-registro-este-ano-la-fcfm]<br>
+- [http://cienciagora.com.co/novedades_de_ciencia_y_tecnologia/mujeres-cientificas-el-porque-de-la-escasez/307.html][http://cienciagora.com.co/novedades_de_ciencia_y_tecnologia/mujeres-cientificas-el-porque-de-la-escasez/307.html]
