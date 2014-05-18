@@ -18,7 +18,7 @@ Para una mayor visualizaci&oacute;n de lo mencionado, se presentan los siguiente
 
 <center>![Porcentaje de Investigadoras en Europa](http://lbasualtobbizarro.github.io/images/porcentaje_europa.png)</center>
 
-Por &uacute;ltimo, incluiremos los siguientes g&aacute;ficos de torta, donde se presentan los porcentajes de investigadoras por &aacute;rea cient&iacute;fica en el a&ntilde;o 2008, para Chile, Am&acute;rica y Europa.
+Por &uacute;ltimo, incluiremos los siguientes gr&aacute;ficos de torta, donde se presentan los porcentajes de investigadoras por &aacute;rea cient&iacute;fica en el a&ntilde;o 2008, para Chile, Am&eacute;rica y Europa.
 En &eacute;stos, se concuerda que la principal deficiencia del g&eacute;nero femenino est&aacute; presente en el &aacute;rea cient&iacute;fica de las ingenier&iacute;as y tecnolog&iacute;as, en tanto que en ciencias m&eacute;dicas y de la salud la mujer est&aacute; en el promedio o incluso por encima.
 
 <center>![Investigadoras por &aacute;rea cient&iacute;fica en Chile](http://lbasualtobbizarro.github.io/images/inv_area_cientifica_chile.png)</center>
@@ -27,4 +27,8 @@ En &eacute;stos, se concuerda que la principal deficiencia del g&eacute;nero fem
 
 <center>![Investigadoras por &aacute;rea cient&iacute;fica en Europa](http://lbasualtobbizarro.github.io/images/inv_area_cientifica_europa.png)</center>
 
-FUENTE: INSTITUTO DE ESTAD&Iacute;STICA DE LA UNESCO, 'CIENCIA, TECNOLOG&Iacute;A E INNOVACI&Oacute;N'
+FUENTES: 
+- INSTITUTO DE ESTAD&Iacute;STICA DE LA UNESCO, 'CIENCIA, TECNOLOG&Iacute;A E INNOVACI&Oacute;N'.
+- http://data.uis.unesco.org/Index.aspx?DataSetCode=SCN_DS
+- http://www.uis.unesco.org/_LAYOUTS/UNESCO/women-in-science/index.html#overview!lang=es
+
