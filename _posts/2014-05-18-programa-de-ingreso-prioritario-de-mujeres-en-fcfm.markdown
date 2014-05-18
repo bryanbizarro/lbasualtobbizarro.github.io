@@ -22,9 +22,9 @@ La escasa participaci&oacute;n de la mujer en la ciencia de la ingenier&iacute;a
 Para finalizar, a pesar de lo dif&iacute;cil que puede ser para las mujeres transformar el ser ingeniera en una realidad, existen mujeres que son un gran ejemplo de lo que se puede lograr, por ejemplo, en la misma Universidad de Chile encontramos docentes como Mar&iacute;a Teresa Ru&iacute;z, quien fue la primera mujer en recibir el premio nacional de ciencias (otorgado en 1997) o como Marcela Munizaga quien tiene diversas publicaciones de nivel internacional acerca de transporte.
 
 
-FUENTES: 
-- FACULTAD DE CIENCIAS F&Iacute;SICAS Y MATEM&Aacute;TICAS DE LA UNIVERSIDAD DE CHILE.
-- http://ingenieria.uchile.cl/admision/97009/mas-mujeres-para-la-ingenieria-y-las-ciencias
-- http://ingenieria.uchile.cl/admision/admision-especial-pregrado/94355/cupos-equidad-de-genero
-- http://ingenieria.uchile.cl/noticias/98203/importante-aumento-en-admision-de-mujeres-registro-este-ano-la-fcfm
+FUENTES: <br>
+- FACULTAD DE CIENCIAS F&Iacute;SICAS Y MATEM&Aacute;TICAS DE LA UNIVERSIDAD DE CHILE.<br>
+- http://ingenieria.uchile.cl/admision/97009/mas-mujeres-para-la-ingenieria-y-las-ciencias<br>
+- http://ingenieria.uchile.cl/admision/admision-especial-pregrado/94355/cupos-equidad-de-genero<br>
+- http://ingenieria.uchile.cl/noticias/98203/importante-aumento-en-admision-de-mujeres-registro-este-ano-la-fcfm<br>
 - http://cienciagora.com.co/novedades_de_ciencia_y_tecnologia/mujeres-cientificas-el-porque-de-la-escasez/307.html
