@@ -194,8 +194,8 @@ color: #CCC;
 .footer .rss img {
   border: 0;
 }
-.footer .disclaimer {
-width: 500px;
+.disclaimer  {
+width: 100%;
 margin: 0 auto;
 padding: 0 10px;
 text-align: center;
